@@ -1,0 +1,30 @@
+body {
+    background: url('images/background.jpg') no-repeat fixed;
+    background-size: cover;
+}
+
+.bold {
+    font-weight: 800;
+    color: #FF69B4
+}
+
+.bold2 {
+    font-weight: 380;
+    color: #FF69B4
+}
+
+.button-color {
+    background-color: #FFC0CB;
+    outline: none;
+    border: none;
+}
+
+.button-color:hover {
+    background-color: #FF69B4;
+  }
+  
+
+.btn-group button:first-child {
+    font-weight: bold;
+  }
+  
