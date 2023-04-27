@@ -1,2 +1,2 @@
 # the-clock
-A simple digital clock made with HTML, CSS, and JS
+A simple digital clock made using Bootstrap, HTML, CSS, and JS
